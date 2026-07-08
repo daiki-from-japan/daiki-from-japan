@@ -40,6 +40,8 @@ This application is not intended for use by minors and does not collect any data
 
 ## 8. Contact
 
+Person responsible (責任者): クロコ (Croco)
+
 For privacy-related questions, please contact: daitingale93@gmail.com
 
 ## 9. Changes to This Policy
