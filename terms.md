@@ -28,8 +28,6 @@ This tool is provided "as is" without warranties. The creator assumes no liabili
 
 ## 7. Contact
 
-Person responsible (責任者): クロコ (Croco)
-
 For questions: daitingale93@gmail.com
 
 ## 8. Changes
